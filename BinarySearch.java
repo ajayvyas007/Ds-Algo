@@ -18,7 +18,7 @@ public class BinarySearch {
 
 	
 	/**
-	 * This function solve the problem with the iteration function
+	 * This function solve the problem with the recursion function
 	 * @param arr is array in which we need to find the index
 	 * @param startingInndex starting index of provided array
 	 * @param lastIndex last index of provided array
