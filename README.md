@@ -1,9 +1,9 @@
 ## Ds-Algo
 Programs related to DS and Algorithms 
-* Binary Search[Code][BinarySearch.java]
-* Selection Sort[Code][SelectionSort.java]
-* Insertion Sort[Code][InsertionSort.java]
-* Merge Sort[Code][MergeSort.java]
+* Binary Search[Code](BinarySearch.java)
+* Selection Sort[Code](SelectionSort.java)
+* Insertion Sort[Code](InsertionSort.java)
+* Merge Sort[Code](MergeSort.java)
 
 
 
